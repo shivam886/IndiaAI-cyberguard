@@ -23,7 +23,8 @@ Steps
 # Clone the repository:
 
 git clone https://github.com/shivam886/IndiaAI-cyberguard.git
-cd IndiaAI_cyberguard-AI
+
+
 # Set up a virtual environment:
 
 python -m venv .venv
