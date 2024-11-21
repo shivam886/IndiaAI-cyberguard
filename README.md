@@ -43,8 +43,4 @@ Main.py
 
 uvicorn app.main:app --reload
 
-# Team Members
-Nikhil Bansal - Leader
-Shivam Pal
-Simran titoria
-Himani Sharma
+
