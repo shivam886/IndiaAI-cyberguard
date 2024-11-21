@@ -22,7 +22,7 @@ Virtual environment tool (optional but recommended)
 Steps
 # Clone the repository:
 
-git clone https://github.com/your-username/IndiaAI_cyberguard-AI.git
+git clone https://github.com/shivam886/IndiaAI-cyberguard.git
 cd IndiaAI_cyberguard-AI
 # Set up a virtual environment:
 
