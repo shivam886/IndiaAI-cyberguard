@@ -1,0 +1,21 @@
+# Core Libraries
+pandas==2.2.3
+numpy==2.1.3
+scikit-learn==1.3.0
+
+# NLP Libraries
+transformers==4.26.0
+tqdm==4.66.1
+
+# FastAPI for API Development
+fastapi==0.115.4
+uvicorn==0.22.0
+
+# Utilities
+python-dotenv==1.0.1
+
+# Optional for Progress Bars in Notebooks
+ipywidgets==8.1.0
+
+# Optional for Code Quality
+ruff==0.7.2
